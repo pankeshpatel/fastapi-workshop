@@ -1,5 +1,7 @@
 ### running a fastapi server
 
+- [FAST API documentation](https://fastapi.tiangolo.com/)
+
 ```
  cd app
  uvicorn main:app 
@@ -12,3 +14,9 @@
  http://localhost:8000/docs
 ```
 
+Topics included
+- API design
+- Authentication
+- API documentation
+- Database
+- CRUD operations
